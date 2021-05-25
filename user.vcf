@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
+N:Neil;Dolman;;;
+FN: Dolman  Neil 
+ORG:Lightscape-images;
+TITLE:Photographer
+EMAIL;type=INTERNET;type=WORK;type=pref:neild@lightscape-images.com
+TEL;type=WORK;type=VOICE:+41 79 431 38 59
+item1.ADR;type=WORK;type=pref:;;Menzingen, ZG;;;6313;Switzerland
+item1.X-ABADR:ch
 item2.URL;type=pref:tech.gov.sg
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
