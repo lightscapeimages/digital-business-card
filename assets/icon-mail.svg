@@ -4,7 +4,7 @@
     <title>Email</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="#0000ff" fill-rule="evenodd">
+    <g id="Page-1" stroke="none" stroke-width="1" fill: #0000ff; fill-rule="evenodd">
         <g id="Social-Icons---Circle" transform="translate(-376.000000, -1387.000000)">
             <g id="Email" transform="translate(376.000000, 1387.000000)">
                 <path d="M36,72 L36,72 C55.882251,72 72,55.882251 72,36 L72,36 C72,16.117749 55.882251,-3.65231026e-15 36,0 L36,0 C16.117749,3.65231026e-15 -2.4348735e-15,16.117749 0,36 L0,36 C2.4348735e-15,55.882251 16.117749,72 36,72 Z" id="Oval" fill="#000000"></path>
