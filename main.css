@@ -142,7 +142,7 @@ img.logo {
 }
 
 .secondary-info {
-	height: 6%;
+	height: 15%;
 }
 
 .bg-color-grey {
@@ -200,6 +200,9 @@ img.logo {
   .primary-info {
   	height:15%
   }
+	.secondary-info {
+	height: 15%;
+}
 }
 
 
