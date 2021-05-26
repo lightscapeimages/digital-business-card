@@ -32,6 +32,13 @@ img {
     object-fit: contain;
 }
 
+.col.profile-pic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 5 80%;
+}
+
 img.profile-pic {
 	height: 100%;
 	width: 100%;
