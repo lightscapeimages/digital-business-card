@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Neil;Dolman;;;
+FN: Dolman  Neil 
+ORG:Lightscape-images;
+TITLE:Photographer
+EMAIL;type=INTERNET;type=WORK;type=pref:neild@lightscape-images.com
+TEL;type=WORK;type=VOICE:+41 79 431 38 59
+item1.ADR;type=WORK;type=pref:;;Menzingen, ZG;;;6313;Switzerland
+item1.X-ABADR:ch
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
