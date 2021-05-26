@@ -35,8 +35,8 @@ img {
 .col.profile-pic {
     display: flex;
     align-items: center;
-    justify-content: center;
-    flex: 5 80%;
+    justify-content: space-evenly;
+    flex: 5 100%;
 }
 
 img.profile-pic {
