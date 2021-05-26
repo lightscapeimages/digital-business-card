@@ -1,13 +1,21 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Neil;Dolman;;;
-FN: Dolman  Neil 
-ORG:Lightscape-images;
-TITLE:Photographer
-EMAIL;type=INTERNET;type=WORK;type=pref:neild@lightscape-images.com
-TEL;type=WORK;type=VOICE:+41 79 431 38 59
-item1.ADR;type=WORK;type=pref:;;Menzingen, ZG;;;6313;Switzerland
-item1.X-ABADR:ch
-item2.X-ABLabel:_$!<HomePage>!$_
+FN:Neil
+N:;Neil;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:neild@lightscape-images.com
+TEL;TYPE=WORK:+41794313859
+ADR;TYPE=WORK:;;Menzingen\, ZG;;;6313;CH;Menzingen\, ZG\n6313\nCH
+item1.ORG:Lightscape-images
+item1.X-ABLabel:work
+item2.TITLE:Photographer
+item2.X-ABLabel:work
+item3.URL:https\://www.lightscape-images.com
+item3.X-ABLabel:Website
+item4.URL:https\://www.twitter.com/lightscapeimage
+item4.X-ABLabel:twitter
+item5.URL:https\://www.instagram.com/lightscape_images
+item5.X-ABLabel:instagram
+item6.URL:https\://lightscapeimages.github.io/digital-business-card/
+item6.X-ABLabel:vcf card
+CATEGORIES:myContacts
 END:VCARD
