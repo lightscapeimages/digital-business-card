@@ -195,7 +195,7 @@ img.logo {
 
 @media only screen and (orientation: portrait) {
   .banner {
-  	height:34%;
+  	height:38%;
   }
   .primary-info {
   	height:	15%;
@@ -204,7 +204,7 @@ img.logo {
 	height: 6%;
 }
 	.bottom {
-	height: 16%;
+	height: 12%;
 }
 }
 
